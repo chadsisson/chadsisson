@@ -1,5 +1,5 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-This is the place where I opensource stuff and break things :rofl:
+Thank you for checking out my profile! 
 
 - 🔭 &nbsp;I’m currently working on ban prevention and automation for games :wink:
 - 🌱 &nbsp;I’m currently learning kotlin and expanding my knowledge further in java, Go
