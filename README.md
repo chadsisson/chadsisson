@@ -10,14 +10,12 @@ Thank you for checking out my profile!
 <p align="left">
 <a href="https://twitter.com/chadesisson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chadesisson" height="30" width="40" /></a>
 
-📊 &nbsp;**This week I spent my time on**
-
 
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-I am a Full Stack Developer with 8+ years of experience in developing enterprise applications and open-source software.
+I am a java developer with 8+ years of experience in scripting.
 
 ### My Opensource Story
 All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
