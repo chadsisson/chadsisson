@@ -4,9 +4,7 @@
  <img width="200px" src="https://github.com/chadsisson/chadsisson/blob/main/java-logo-1.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Chad Sisson</h2>
  <p align="center">Welcome to my page!</p>
- <p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
 
-<p align="left"> <a href="https://twitter.com/rahuldkjain" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chadsisson&count_private=true" />
 </p>
 
