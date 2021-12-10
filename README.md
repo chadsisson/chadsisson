@@ -18,9 +18,7 @@ Thank you for checking out my profile!
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://twitter.com/chadesisson" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1639147268~hmac=6caf8059ecd3adfee5167d7350912b3d" alt="chadesisson" height="40" width="40" /></a>
- <a href="https://twitter.com/chadesisson" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" alt="chadesisson" height="40" width="40" /></a>
-  <a href="https://twitter.com/chadesisson" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/220/220201.png" alt="chadesisson" height="40" width="36" /></a>
+  <a href="https://www.linkedin.com/in/chadesisson" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/220/220201.png" alt="chadesisson" height="40" width="36" /></a>
  </p>
  
 <h3 align="left">Languages and Tools:</h3>
