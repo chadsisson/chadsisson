@@ -4,10 +4,8 @@
  <img width="200px" src="https://github.com/chadsisson/chadsisson/blob/main/java-logo-1.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Chad Sisson</h2>
  <p align="center">Welcome to my page!</p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=chadsisson&count_private=true" />
 </p>
-<a align="center" href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chadsisson&count_private=true" />
-</a>
 
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 Thank you for checking out my profile! 
