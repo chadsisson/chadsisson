@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://cpng.pikpng.com/pngl/s/146-1469159_java-icon-java-icon-png-clipart.png" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://github.com/ionic-team/ionicons/tree/main/docs/ionicons/svg/logo-javascript.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Chad Sisson</h2>
  <p align="center">Welcome to my page!</p>
 </p>
