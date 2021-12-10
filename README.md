@@ -13,6 +13,7 @@ Thank you for checking out my profile!
 <img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chadsisson&count_private=true)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chadsisson)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
