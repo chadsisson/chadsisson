@@ -20,7 +20,7 @@ Thank you for checking out my profile!
 <p align="left">
 <a href="https://twitter.com/chadesisson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chadesisson" height="30" width="40" /></a>
  <a href="https://twitter.com/chadesisson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chadesisson" height="30" width="40" /></a>
-  <a href="https://twitter.com/chadesisson" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/220/220201.png" alt="chadesisson" height="40" width="40" /></a>
+  <a href="https://twitter.com/chadesisson" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/220/220201.png" alt="chadesisson" height="30" width="30" /></a>
  </p>
  
 <h3 align="left">Languages and Tools:</h3>
