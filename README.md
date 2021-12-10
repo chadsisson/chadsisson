@@ -19,5 +19,17 @@ Thank you for checking out my profile!
 <p align="left">
 <a href="https://twitter.com/chadesisson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chadesisson" height="30" width="40" /></a>
 
+ ## :sparkling_heart: Support the project
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chadsisson)](https://github.com/anuraghazra/github-readme-stats)
+I open-source almost everything I can, and I try to reply to everyone needing help using these projects. Obviously,
+this takes time. You can use this service for free.
+
+However, if you are using this project and are happy with it or just want to encourage me to continue creating stuff, there are few ways you can do it :-
+
+- Giving proper credit when you use github-readme-stats on your readme, linking back to it :D
+- Starring and sharing the project :rocket:
+- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+
+Thanks! :heart:
+
+---
