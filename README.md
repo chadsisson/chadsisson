@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://banner2.cleanpng.com/20180621/jow/kisspng-plain-old-java-object-programming-language-compute-5b2b6405b39ad9.4848800015295703097357.jpg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://cpng.pikpng.com/pngl/s/146-1469159_java-icon-java-icon-png-clipart.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Chad Sisson</h2>
  <p align="center">Welcome to my page!</p>
 </p>
