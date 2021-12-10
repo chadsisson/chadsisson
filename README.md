@@ -7,7 +7,7 @@
 
   </p>
 </p>
-   ![Chad's GitHub stats](https://github-readme-stats.vercel.app/api?username=chadsisson&count_private=true)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chadsisson&count_private=true)
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 Thank you for checking out my profile! 
 
