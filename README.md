@@ -17,6 +17,8 @@ Thank you for checking out my profile!
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://twitter.com/chadesisson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chadesisson" height="30" width="40" /></a>
+ <a href="https://twitter.com/chadesisson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chadesisson" height="30" width="40" /></a>
+ </p>
 
 Thanks! :heart:
 
