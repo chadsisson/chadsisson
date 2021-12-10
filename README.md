@@ -1,11 +1,12 @@
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chadsisson&count_private=true)
+
 <p align="center">
  <img width="200px" src="https://github.com/chadsisson/chadsisson/blob/main/java-logo-1.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Chad Sisson</h2>
  <p align="center">Welcome to my page!</p>
 </p>
   <p align="center">
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chadsisson&count_private=true)
   </p>
 </p>
 
