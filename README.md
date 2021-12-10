@@ -5,9 +5,6 @@
  <h2 align="center">Chad Sisson</h2>
  <p align="center">Welcome to my page!</p>
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chadsisson&count_private=true" />
 </a>
