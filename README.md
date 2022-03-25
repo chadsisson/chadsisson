@@ -35,7 +35,7 @@ Thank you for checking out my profile!
 
 <h3 align="left">Certifications:</h3>
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.ripplesoftware.ca/wp-content/uploads/2019/11/securituy-300x204.png" alt="html5"/> </a>
+    <a href="https://www.comptia.org/certifications/security" target="_blank"> <img src="https://www.ripplesoftware.ca/wp-content/uploads/2019/11/securituy-300x204.png" alt="html5"/> </a>
 </p>
 
 ---
