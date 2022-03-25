@@ -35,7 +35,7 @@ Thank you for checking out my profile!
 
 <h3 align="left">Certifications:</h3>
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://w7.pngwing.com/pngs/366/886/png-transparent-comptia-professional-certification-test-logo-security-control-text-logo-banner.png" alt="html5" width="40" height="40"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://w7.pngwing.com/pngs/366/886/png-transparent-comptia-professional-certification-test-logo-security-control-text-logo-banner.png" alt="html5"/> </a>
 </p>
 
 ---
