@@ -4,8 +4,12 @@
  <img width="200px" src="https://github.com/chadsisson/chadsisson/blob/main/java-logo-1.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Chad Sisson</h2>
  <p align="center">Welcome to my page!</p>
-
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=chadsisson&count_private=true" />
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <a href="https://github.com/kyleescobar">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=chadsisson&theme=tokyonight_duo&hide_border=true&ring=000000&currStreakLabel=5ae87c&sideNums=5ae87c&dates=979797&sideLabels=5ae87c&currStreakNum=5ae87c&border=DD2727&stroke=00000000&background=00000000&fire=FF7600" />
+    </td>
+  </tr>
 </p>
 
  ## :thought_balloon:	About Me
