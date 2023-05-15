@@ -30,7 +30,6 @@ Thank you for checking out my profile!
 
 - 🌱 &nbsp;I’m currently learning kotlin and expanding my knowledge further in java.
 - 💬 &nbsp;Feel free to ask me about anything related to my products. I am more than happy to teach you! 
-- 📫 &nbsp;How to reach me: [@chadesisson](https://twitter.com/chadesisson) or discord UID: 600464879211511820
 
 
 🔗 &nbsp;**Connect with me**
