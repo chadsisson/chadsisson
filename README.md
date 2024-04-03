@@ -28,8 +28,12 @@
  ## :thought_balloon:	About Me
 Thank you for checking out my profile! 
 
-- 🌱 &nbsp;I’m currently learning kotlin and expanding my knowledge further in java.
-- 💬 &nbsp;Feel free to ask me about anything related to my products. I am more than happy to teach you! 
+- 🚀 &nbsp;Expert Java Developer with a passion for building scalable solutions and enhancing system performance.
+- 📘 &nbsp;Dedicated to continuous learning and professional growth in software development.
+- 🤝 &nbsp;Committed to fostering a collaborative environment. Feel free to connect for project discussions or advice.
+- ✨ &nbsp;Believer in sharing knowledge and mentoring peers in the software development community.
+- 🌟 &nbsp;Eager to engage in meaningful conversations that drive innovation and technical excellence.
+
 
 
 🔗 &nbsp;**Connect with me**
