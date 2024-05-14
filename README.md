@@ -55,7 +55,7 @@ Thank you for checking out my profile!
 
 <h3 align="left">Certifications:</h3>
 <p align="left">
-    <a href="https://www.comptia.org/certifications/security" target="_blank"> <img src="https://p7.hiclipart.com/preview/366/886/460/comptia-professional-certification-test-logo-security-control.jpg" alt="html5"/> </a>
+    <a href="https://www.comptia.org/certifications/security" target="_blank"> <img src="https://i2.wp.com/skilldacity.com/wp-content/uploads/2021/08/CompTIA-Security.png?fit=307%2C317&ssl=1" alt="html5"/> </a>
 </p>
 
 ---
