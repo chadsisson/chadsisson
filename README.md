@@ -55,7 +55,7 @@ Thank you for checking out my profile!
 
 <h3 align="left">Certifications:</h3>
 <p align="left">
-    <a href="https://www.comptia.org/certifications/security" target="_blank"> <img src="https://i.imgur.com/joYJxhx.png" alt="html5"/> </a>
+    <a href="https://www.comptia.org/certifications/security" target="_blank"> <img src="[https://i.imgur.com/joYJxhx.png](https://img-b.udemycdn.com/course/750x422/5728500_b34f.jpg)" alt="html5"/> </a>
 </p>
 
 ---
