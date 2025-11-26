@@ -4,7 +4,7 @@
 
 ## About
 
-I'm a cybersecurity professional at Huber & Associates, managing security operations across 50+ client environments while serving as virtual CISO to 14 organizations. I specialize in incident response, SIEM implementation, and building automation tools that enhance security operations efficiency.
+I'm a cybersecurity professional, managing security operations across 30+ client environments while serving as virtual VCISO to 14 organizations. I specialize in incident response, SIEM implementation, and building automation tools that enhance security operations efficiency.
 
 ## 🔧 Technologies
 
@@ -33,13 +33,11 @@ I'm a cybersecurity professional at Huber & Associates, managing security operat
 ## 🚀 Current Projects
 
 - **BehaviorGuard** - ML-powered bot detection platform leveraging 100GB of mouse movement data
-- **Security Automation** - Python scripts saving 20+ analyst hours weekly
-- **RuneScape Tools** - BuddyLite client, Squire automation platform, and RuneLite plugins
+- **Security Automation** - Java, Kotlin, and Python scripts saving 20+ analyst hours weekly
 
 ## 🎯 Currently
 
 - Pursuing CISSP certification
-- Actively interviewing for cybersecurity roles at Fortune 500 companies
 - Building machine learning models for behavioral analysis
 
 ## 📫 Let's Connect
