@@ -17,12 +17,13 @@ Senior Cybersecurity Engineer & Architect with a passion for building secure, sc
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chadsisson&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=5ae87c&text_color=c9d1d9&icon_color=5ae87c"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadsisson&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=5ae87c&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chadsisson&theme=dark&hide_border=true&background=0d1117&stroke=5ae87c&ring=5ae87c&fire=5ae87c&currStreakLabel=5ae87c&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9" />
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chadsisson&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=5ae87c&text_color=c9d1d9&icon_color=5ae87c)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chadsisson&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=5ae87c&text_color=c9d1d9)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chadsisson&theme=dark&hide_border=true&background=0d1117&stroke=5ae87c&ring=5ae87c&fire=5ae87c&currStreakLabel=5ae87c&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9)
+  
 </div>
 
 ## 🛠️ Tech Stack
