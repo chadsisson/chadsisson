@@ -24,38 +24,44 @@
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- About Section with Custom Card -->
+<!-- About Section - Professional Format -->
 <details open>
 <summary><b>🎯 About Me</b></summary>
 <br>
 
-```javascript
-const chadSisson = {
-    title: "Cybersecurity Engineer & Architect",
-    company: "Huber & Associates",
-    clients: 30,
-    vCISO_organizations: 14,
-    
-    expertise: {
-        security: ["Incident Response", "SIEM", "EDR", "Threat Hunting"],
-        languages: ["Python", "Java", "Kotlin", "PowerShell", "Bash"],
-        platforms: ["Splunk", "SentinelOne", "Blumira", "Netsurion"]
-    },
-    
-    currentProject: "BehaviorGuard - ML Bot Detection",
-    dataset: "100GB behavioral data (90 users, 363 sessions)",
-    impact: "20+ hours automated weekly",
-    
-    certifications: ["CompTIA Security+", "CISSP (In Progress)"]
-}
-```
+<div align="center">
+
+**Cybersecurity Engineer & Architect at Huber & Associates**
+
+Protecting **30+ client environments** | Virtual CISO to **14 organizations** | **10+ years** experience
+
+</div>
+
+### 💼 Professional Impact
+
+- 🛡️ **Virtual CISO** managing security strategy for 14 organizations
+- 🔧 **30+ Clients** with comprehensive security operations coverage
+- ⚡ **20+ Hours Weekly** saved through custom automation solutions
+- 🎯 **100+ Incidents** successfully resolved and remediated
+
+### 🔍 Current Project: BehaviorGuard
+
+Building an ML-powered bot detection platform with:
+- 100GB behavioral dataset
+- 90 users across 363 sessions analyzed
+- Potential $10M-50M value to gaming/anti-cheat industry
+
+### 📜 Certifications
+
+- ✅ CompTIA Security+
+- 📚 CISSP (In Progress)
 
 </details>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Tech Stack Grid - Visual Style from Perfect Version -->
+<!-- Tech Stack Grid - Visual Style -->
 <details open>
 <summary><b>🛠️ Technology Arsenal</b></summary>
 <br>
@@ -85,7 +91,7 @@ const chadSisson = {
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" />
       <br>AWS
     </td>
     <td align="center" width="96">
@@ -186,6 +192,7 @@ const chadSisson = {
 - 🤖 **Advanced ML for Security** - Developing next-gen behavioral analysis
 - 🔬 **Research** - Publishing findings on bot detection methodologies
 - 🚀 **Automation** - Building tools that save 20+ analyst hours weekly
+- 💼 **Career Growth** - Exploring senior cybersecurity opportunities
 
 </details>
 
