@@ -1,10 +1,14 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.gif" width="30px" height="30px" /> Chad Sisson
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5AE87C&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineer+%26+Architect;Virtual+CISO+for+14%2B+Organizations;Incident+Response+Specialist" alt="Typing SVG" />
+</div>
+
 **Cybersecurity Engineer & Architect** | Virtual CISO | Incident Response Specialist
 
 ## About
 
-I'm a cybersecurity professional, managing security operations across 30+ client environments while serving as virtual VCISO to 14 organizations. I specialize in incident response, SIEM implementation, and building automation tools that enhance security operations efficiency.
+I'm a cybersecurity professional, managing security operations across 30+ client environments while serving as virtual CISO to 14 organizations. I specialize in incident response, SIEM implementation, and building automation tools that enhance security operations efficiency.
 
 ## 🔧 Technologies
 
