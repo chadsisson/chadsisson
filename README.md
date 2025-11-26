@@ -125,6 +125,11 @@ Cybersecurity Engineer & Architect at **Huber & Associates**, serving as virtual
 
 </div>
 
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+</p>
+
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,17,11&height=100&section=footer&fontSize=14&fontAlign=50&fontAlignY=65" />
