@@ -18,19 +18,18 @@ Senior Cybersecurity Engineer & Architect with a passion for building secure, sc
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chadsisson&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=5ae87c&text_color=c9d1d9&icon_color=5ae87c)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chadsisson&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=5ae87c&text_color=c9d1d9)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chadsisson&theme=dark&hide_border=true&background=0d1117&stroke=5ae87c&ring=5ae87c&fire=5ae87c&currStreakLabel=5ae87c&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9)
-  
+![Profile Views](https://komarev.com/ghpvc/?username=chadsisson&color=5ae87c&style=for-the-badge&label=PROFILE+VIEWS)
+![Years Badge](https://badges.strrl.dev/years/chadsisson?style=for-the-badge&color=5ae87c)
+![Repos Badge](https://badges.strrl.dev/repos/chadsisson?style=for-the-badge&color=5ae87c)
+![Commits Badge](https://badges.strrl.dev/commits/yearly/chadsisson?style=for-the-badge&color=5ae87c)
+
 </div>
 
 ## 🛠️ Tech Stack
 
 ### Security & Infrastructure
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![SentinelOne](https://img.shields.io/badge/SentinelOne-5E2E84?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyQzIgMTcuNTIgNi40OCAyMiAxMiAyMkMxNy41MiAyMiAyMiAxNy41MiAyMiAxMkMyMiA2LjQ4IDE3LjUyIDIgMTIgMloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPg==)
+![SentinelOne](https://img.shields.io/badge/SentinelOne-5E2E84?style=for-the-badge&logo=sentinelone&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
 
@@ -52,6 +51,21 @@ Senior Cybersecurity Engineer & Architect with a passion for building secure, sc
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+## 🏆 Achievements & Metrics
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| **Years in Cybersecurity** | 10+ |
+| **Organizations as vCISO** | 14 |
+| **Client Environments** | 50+ |
+| **Weekly Hours Automated** | 20+ |
+| **Security Tools Mastered** | 15+ |
+| **Active Projects** | 3 |
+
+</div>
+
 ## 🎯 Current Focus
 
 - 🔍 Building **BehaviorGuard** - Advanced bot detection using ML-based behavioral analysis
@@ -71,7 +85,5 @@ Senior Cybersecurity Engineer & Architect with a passion for building secure, sc
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chadsisson&style=flat-square&color=5ae87c" alt="Profile Views" />
-  <br>
   <sub>Building secure solutions, one line of code at a time 🚀</sub>
 </div>
