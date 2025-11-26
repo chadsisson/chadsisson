@@ -33,24 +33,20 @@
 const chadSisson = {
     title: "Cybersecurity Engineer & Architect",
     company: "Huber & Associates",
-    virtualCISO: {
-        organizations: 14,
-        totalClients: 30+,
-        industries: ["Healthcare", "Government", "Manufacturing", "Finance"]
-    },
+    clients: 30,
+    vCISO_organizations: 14,
+    
     expertise: {
         security: ["Incident Response", "SIEM", "EDR", "Threat Hunting"],
-        automation: ["Python", "Java", "Kotlin"],
+        languages: ["Python", "Java", "Kotlin", "PowerShell", "Bash"],
         platforms: ["Splunk", "SentinelOne", "Blumira", "Netsurion"]
     },
-    currentProject: {
-        name: "BehaviorGuard",
-        type: "ML-Powered Bot Detection",
-        dataset: "100GB behavioral data",
-        potentialValue: "$10M-50M"
-    },
-    certifications: ["CompTIA Security+", "CISSP (In Progress)"],
-    openTo: ["Senior Security Roles", "Fortune 500 Opportunities"]
+    
+    currentProject: "BehaviorGuard - ML Bot Detection",
+    dataset: "100GB behavioral data (90 users, 363 sessions)",
+    impact: "20+ hours automated weekly",
+    
+    certifications: ["CompTIA Security+", "CISSP (In Progress)"]
 }
 ```
 
@@ -89,7 +85,7 @@ const chadSisson = {
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" />
       <br>AWS
     </td>
     <td align="center" width="96">
@@ -188,8 +184,8 @@ const chadSisson = {
 
 - 🎓 **CISSP Certification** - Advancing professional credentials
 - 🤖 **Advanced ML for Security** - Developing next-gen behavioral analysis
-- 🎯 **Career Growth** - Interviewing with Google, Disney, TKO, Meta
 - 🔬 **Research** - Publishing findings on bot detection methodologies
+- 🚀 **Automation** - Building tools that save 20+ analyst hours weekly
 
 </details>
 
